@@ -1313,16 +1313,9 @@ export class UserInterface {
         const w = Math.max(1, Math.floor(vv?.width ?? innerWidth));
         const h = Math.max(1, Math.floor(vv?.height ?? innerHeight));
         const app = this.core.app;
-        if (!app?.renderer) return;
-        const dpr = Math.min(Math.max(window.devicePixelRatio || 1, 1), 3);
-        app.renderDpr = dpr;
-        if (app.renderer.resolution !== dpr) {
-            app.renderer.resolution = dpr;
-        }
-        app.renderer.resize(w, h);
-        if (app.stage) {
-            app.stage.position.set(w / 2, h / 2);
-        }
+        if (!app?.view || !app.resizeCanvas) return;
+        app.resizeCanvas(w, h);
+        app.syncMinimapSize?.();
         // Сброс «улетевшего» зума после поворота/обновления на мобилке
         if (app.ownedCells.length === 0 && !app.isSpectating) {
             const z = app.zoom;
