@@ -1,0 +1,1261 @@
+[
+  {
+    "domain": "ffa.agma.us",
+    "ok": true,
+    "ips": [
+      "76.223.54.146",
+      "13.248.169.48"
+    ],
+    "https": null,
+    "http": 200,
+    "score": 3,
+    "reason": "http",
+    "title": ""
+  },
+  {
+    "domain": "gagar.ru",
+    "ok": true,
+    "ips": [
+      "31.31.205.163"
+    ],
+    "https": 200,
+    "http": null,
+    "score": 2,
+    "reason": "https",
+    "title": "Домен gagar.ru, возможно, продаётся"
+  },
+  {
+    "domain": "privateagario.net",
+    "ok": true,
+    "ips": [
+      "172.67.147.171",
+      "104.21.33.176"
+    ],
+    "https": 200,
+    "http": null,
+    "score": 12,
+    "reason": "https",
+    "title": "Agario private server - Agario game - PrivateAgario"
+  },
+  {
+    "domain": "vanis.us",
+    "ok": true,
+    "ips": [
+      "13.248.169.48",
+      "76.223.54.146"
+    ],
+    "https": null,
+    "http": 200,
+    "score": 2,
+    "reason": "http",
+    "title": ""
+  },
+  {
+    "domain": "ffa.agar.red",
+    "ok": true,
+    "ips": [
+      "185.53.179.200"
+    ],
+    "https": 451,
+    "http": null,
+    "score": 3,
+    "reason": "https",
+    "title": ""
+  },
+  {
+    "domain": "agario.app",
+    "ok": true,
+    "ips": [
+      "44.232.173.249",
+      "52.40.42.113"
+    ],
+    "https": 200,
+    "http": null,
+    "score": 4,
+    "reason": "https",
+    "title": "agario.app for sale | Spaceship.com"
+  },
+  {
+    "domain": "ffa.germs.co",
+    "ok": true,
+    "ips": [
+      "54.237.57.21"
+    ],
+    "https": null,
+    "http": 302,
+    "score": 3,
+    "reason": "http",
+    "title": ""
+  },
+  {
+    "domain": "cellcraft.net",
+    "ok": true,
+    "ips": [
+      "54.84.240.235",
+      "44.208.83.180"
+    ],
+    "https": 301,
+    "http": null,
+    "score": 3,
+    "reason": "https",
+    "title": ""
+  },
+  {
+    "domain": "play.vanis.xyz",
+    "ok": true,
+    "ips": [
+      "76.223.54.146",
+      "13.248.169.48"
+    ],
+    "https": null,
+    "http": 200,
+    "score": 2,
+    "reason": "http",
+    "title": ""
+  },
+  {
+    "domain": "ru.agar.host",
+    "ok": true,
+    "ips": [
+      "104.21.48.114",
+      "172.67.150.182"
+    ],
+    "https": 525,
+    "http": 308,
+    "score": 2,
+    "reason": "http",
+    "title": ""
+  },
+  {
+    "domain": "gagar.io",
+    "ok": true,
+    "ips": [
+      "172.67.180.8",
+      "104.21.31.224"
+    ],
+    "https": 301,
+    "http": null,
+    "score": 3,
+    "reason": "https",
+    "title": "301 Moved Permanently"
+  },
+  {
+    "domain": "ffa.gagar.ws",
+    "ok": true,
+    "ips": [
+      "64.70.19.203"
+    ],
+    "https": null,
+    "http": 200,
+    "score": 3,
+    "reason": "http",
+    "title": "WEBSITE.WS - Your Internet Address For Life&trade;"
+  },
+  {
+    "domain": "m.agma.in",
+    "ok": true,
+    "ips": [
+      "64.190.63.222"
+    ],
+    "https": null,
+    "http": 408,
+    "score": 2,
+    "reason": "http",
+    "title": ""
+  },
+  {
+    "domain": "play.agario.org",
+    "ok": true,
+    "ips": [
+      "13.248.169.48",
+      "76.223.54.146"
+    ],
+    "https": null,
+    "http": 200,
+    "score": 4,
+    "reason": "http",
+    "title": ""
+  },
+  {
+    "domain": "germs.io",
+    "ok": true,
+    "ips": [
+      "172.67.166.57",
+      "104.21.82.250"
+    ],
+    "https": 200,
+    "http": null,
+    "score": 18,
+    "reason": "https",
+    "title": "Germs.io"
+  },
+  {
+    "domain": "agario.site",
+    "ok": true,
+    "ips": [
+      "83.217.221.39"
+    ],
+    "https": 401,
+    "http": null,
+    "score": 4,
+    "reason": "https",
+    "title": "401 Authorization Required"
+  },
+  {
+    "domain": "agar3.com",
+    "ok": true,
+    "ips": [
+      "104.21.45.3",
+      "172.67.207.9"
+    ],
+    "https": 200,
+    "http": null,
+    "score": 2,
+    "reason": "https",
+    "title": "IIS Windows Server"
+  },
+  {
+    "domain": "ffa.blob.xyz",
+    "ok": true,
+    "ips": [
+      "66.33.60.34",
+      "76.76.21.164"
+    ],
+    "https": null,
+    "http": 404,
+    "score": 3,
+    "reason": "http",
+    "title": ""
+  },
+  {
+    "domain": "m.gota.tech",
+    "ok": true,
+    "ips": [
+      "76.223.54.146",
+      "13.248.169.48"
+    ],
+    "https": null,
+    "http": 200,
+    "score": 2,
+    "reason": "http",
+    "title": ""
+  },
+  {
+    "domain": "gagar.in",
+    "ok": true,
+    "ips": [
+      "217.107.219.198"
+    ],
+    "https": 200,
+    "http": null,
+    "score": 2,
+    "reason": "https",
+    "title": "Dima Gagarin — Product Designer (UI/UX)"
+  },
+  {
+    "domain": "ru.agariox.ws",
+    "ok": true,
+    "ips": [
+      "64.70.19.203"
+    ],
+    "https": null,
+    "http": 200,
+    "score": 4,
+    "reason": "http",
+    "title": "WEBSITE.WS - Your Internet Address For Life&trade;"
+  },
+  {
+    "domain": "blob.live",
+    "ok": true,
+    "ips": [
+      "52.20.84.62"
+    ],
+    "https": null,
+    "http": 302,
+    "score": 2,
+    "reason": "http",
+    "title": "302 Found"
+  },
+  {
+    "domain": "starve.io",
+    "ok": true,
+    "ips": [
+      "8.6.112.0",
+      "8.47.69.0"
+    ],
+    "https": 200,
+    "http": null,
+    "score": 9,
+    "reason": "https",
+    "title": "Starve.io"
+  },
+  {
+    "domain": "gota.net",
+    "ok": true,
+    "ips": [
+      "62.80.209.236",
+      "212.3.0.236"
+    ],
+    "https": 301,
+    "http": null,
+    "score": 2,
+    "reason": "https",
+    "title": ""
+  },
+  {
+    "domain": "play.wormate.com",
+    "ok": true,
+    "ips": [
+      "13.223.25.84",
+      "54.243.117.197"
+    ],
+    "https": 302,
+    "http": null,
+    "score": 3,
+    "reason": "https",
+    "title": ""
+  },
+  {
+    "domain": "play.blob.pl",
+    "ok": true,
+    "ips": [
+      "188.128.255.251"
+    ],
+    "https": 200,
+    "http": null,
+    "score": 2,
+    "reason": "https",
+    "title": "Strona domeny blob.pl"
+  },
+  {
+    "domain": "ru.gota.tech",
+    "ok": true,
+    "ips": [
+      "76.223.54.146",
+      "13.248.169.48"
+    ],
+    "https": null,
+    "http": 200,
+    "score": 2,
+    "reason": "http",
+    "title": ""
+  },
+  {
+    "domain": "m.agario.fun",
+    "ok": true,
+    "ips": [
+      "172.237.146.39",
+      "172.237.146.46",
+      "172.237.146.18"
+    ],
+    "https": 200,
+    "http": null,
+    "score": 4,
+    "reason": "https",
+    "title": "Redirecting..."
+  },
+  {
+    "domain": "cells.me",
+    "ok": true,
+    "ips": [
+      "52.20.84.62"
+    ],
+    "https": 302,
+    "http": null,
+    "score": 3,
+    "reason": "https",
+    "title": "302 Found"
+  },
+  {
+    "domain": "ffa.germs.ws",
+    "ok": true,
+    "ips": [
+      "64.70.19.203"
+    ],
+    "https": null,
+    "http": 200,
+    "score": 3,
+    "reason": "http",
+    "title": "WEBSITE.WS - Your Internet Address For Life&trade;"
+  },
+  {
+    "domain": "slitherio.pl",
+    "ok": true,
+    "ips": [
+      "172.67.210.71",
+      "104.21.61.121"
+    ],
+    "https": 301,
+    "http": null,
+    "score": 3,
+    "reason": "https",
+    "title": "301 Moved Permanently"
+  },
+  {
+    "domain": "germs.xyz",
+    "ok": true,
+    "ips": [
+      "52.40.42.113",
+      "44.232.173.249"
+    ],
+    "https": 200,
+    "http": null,
+    "score": 2,
+    "reason": "https",
+    "title": "Germs.xyz for sale | Spaceship.com"
+  },
+  {
+    "domain": "m.agar3.ws",
+    "ok": true,
+    "ips": [
+      "64.70.19.203"
+    ],
+    "https": null,
+    "http": 200,
+    "score": 2,
+    "reason": "http",
+    "title": "WEBSITE.WS - Your Internet Address For Life&trade;"
+  },
+  {
+    "domain": "cellwars.io",
+    "ok": true,
+    "ips": [
+      "172.67.166.167",
+      "104.21.16.59"
+    ],
+    "https": 404,
+    "http": null,
+    "score": 2,
+    "reason": "https",
+    "title": "404 Not Found"
+  },
+  {
+    "domain": "ffa.vanis.ru",
+    "ok": true,
+    "ips": [
+      "62.122.170.171"
+    ],
+    "https": null,
+    "http": 200,
+    "score": 3,
+    "reason": "http",
+    "title": ""
+  },
+  {
+    "domain": "play.cellz.pro",
+    "ok": true,
+    "ips": [
+      "13.248.169.48",
+      "76.223.54.146"
+    ],
+    "https": null,
+    "http": 200,
+    "score": 2,
+    "reason": "http",
+    "title": ""
+  },
+  {
+    "domain": "m.blob.pl",
+    "ok": true,
+    "ips": [
+      "188.128.255.251"
+    ],
+    "https": 200,
+    "http": null,
+    "score": 2,
+    "reason": "https",
+    "title": "Strona domeny blob.pl"
+  },
+  {
+    "domain": "play.gagar.com",
+    "ok": true,
+    "ips": [
+      "13.248.169.48",
+      "76.223.54.146"
+    ],
+    "https": null,
+    "http": 200,
+    "score": 2,
+    "reason": "http",
+    "title": ""
+  },
+  {
+    "domain": "wormax.org",
+    "ok": true,
+    "ips": [
+      "172.67.203.169",
+      "104.21.44.200"
+    ],
+    "https": 200,
+    "http": null,
+    "score": 8,
+    "reason": "https",
+    "title": "Wormax.io Mods, Hacks, Cheats, Skins"
+  },
+  {
+    "domain": "agarix.ws",
+    "ok": true,
+    "ips": [
+      "64.70.19.203"
+    ],
+    "https": null,
+    "http": 200,
+    "score": 2,
+    "reason": "http",
+    "title": "WEBSITE.WS - Your Internet Address For Life&trade;"
+  },
+  {
+    "domain": "cells.pl",
+    "ok": true,
+    "ips": [
+      "185.253.212.22"
+    ],
+    "https": 301,
+    "http": null,
+    "score": 3,
+    "reason": "https",
+    "title": ""
+  },
+  {
+    "domain": "play.blob.org",
+    "ok": true,
+    "ips": [
+      "76.223.54.146",
+      "13.248.169.48"
+    ],
+    "https": null,
+    "http": 200,
+    "score": 2,
+    "reason": "http",
+    "title": ""
+  },
+  {
+    "domain": "m.cellcraft.ws",
+    "ok": true,
+    "ips": [
+      "64.70.19.203"
+    ],
+    "https": null,
+    "http": 200,
+    "score": 3,
+    "reason": "http",
+    "title": "WEBSITE.WS - Your Internet Address For Life&trade;"
+  },
+  {
+    "domain": "agar.io",
+    "ok": true,
+    "ips": [
+      "13.33.235.106",
+      "13.33.235.72",
+      "13.33.235.46",
+      "13.33.235.77"
+    ],
+    "https": 200,
+    "http": null,
+    "score": 10,
+    "reason": "https",
+    "title": "Agar.io"
+  },
+  {
+    "domain": "agar-io.io",
+    "ok": true,
+    "ips": [
+      "104.21.64.204",
+      "172.67.136.55"
+    ],
+    "https": 200,
+    "http": null,
+    "score": 7,
+    "reason": "https",
+    "title": "Agar.io Online Official"
+  },
+  {
+    "domain": "wagar.pl",
+    "ok": true,
+    "ips": [
+      "193.239.45.75"
+    ],
+    "https": 404,
+    "http": null,
+    "score": 2,
+    "reason": "https",
+    "title": "HTTP ERROR 404"
+  },
+  {
+    "domain": "play.agma.tech",
+    "ok": true,
+    "ips": [
+      "37.140.192.184"
+    ],
+    "https": 200,
+    "http": null,
+    "score": 2,
+    "reason": "https",
+    "title": "Домен не привязан к хостингу"
+  },
+  {
+    "domain": "ffa.agma.site",
+    "ok": true,
+    "ips": [
+      "76.223.54.146",
+      "13.248.169.48"
+    ],
+    "https": null,
+    "http": 200,
+    "score": 3,
+    "reason": "http",
+    "title": ""
+  },
+  {
+    "domain": "m.nazi.ws",
+    "ok": true,
+    "ips": [
+      "64.70.19.203"
+    ],
+    "https": null,
+    "http": 200,
+    "score": 2,
+    "reason": "http",
+    "title": "WEBSITE.WS - Your Internet Address For Life&trade;"
+  },
+  {
+    "domain": "senpa.io",
+    "ok": true,
+    "ips": [
+      "104.21.41.147",
+      "172.67.147.167"
+    ],
+    "https": 200,
+    "http": null,
+    "score": 5,
+    "reason": "https",
+    "title": "Senpa.io - Home"
+  },
+  {
+    "domain": "iogames.space",
+    "ok": true,
+    "ips": [
+      "8.47.69.0",
+      "8.6.112.0"
+    ],
+    "https": 200,
+    "http": null,
+    "score": 7,
+    "reason": "https",
+    "title": ".io Games - Play Free Games Online"
+  },
+  {
+    "domain": "play.ogar.xyz",
+    "ok": true,
+    "ips": [
+      "13.248.169.48",
+      "76.223.54.146"
+    ],
+    "https": null,
+    "http": 200,
+    "score": 3,
+    "reason": "http",
+    "title": ""
+  },
+  {
+    "domain": "m.agma.tech",
+    "ok": true,
+    "ips": [
+      "37.140.192.184"
+    ],
+    "https": 200,
+    "http": null,
+    "score": 2,
+    "reason": "https",
+    "title": "Домен не привязан к хостингу"
+  },
+  {
+    "domain": "wagar.me",
+    "ok": true,
+    "ips": [
+      "15.197.148.33",
+      "3.33.130.190"
+    ],
+    "https": 200,
+    "http": null,
+    "score": 2,
+    "reason": "https",
+    "title": ""
+  },
+  {
+    "domain": "play.cellcraft.ws",
+    "ok": true,
+    "ips": [
+      "64.70.19.203"
+    ],
+    "https": null,
+    "http": 200,
+    "score": 3,
+    "reason": "http",
+    "title": "WEBSITE.WS - Your Internet Address For Life&trade;"
+  },
+  {
+    "domain": "agarx.co",
+    "ok": true,
+    "ips": [
+      "54.149.79.189",
+      "34.216.117.25"
+    ],
+    "https": null,
+    "http": 200,
+    "score": 2,
+    "reason": "http",
+    "title": "Parking Page"
+  },
+  {
+    "domain": "ffa.ogar.ru",
+    "ok": true,
+    "ips": [
+      "31.31.205.163"
+    ],
+    "https": 302,
+    "http": null,
+    "score": 4,
+    "reason": "https",
+    "title": ""
+  },
+  {
+    "domain": "play.slither.in",
+    "ok": true,
+    "ips": [
+      "104.247.81.99"
+    ],
+    "https": 451,
+    "http": null,
+    "score": 3,
+    "reason": "https",
+    "title": ""
+  },
+  {
+    "domain": "nazi.fun",
+    "ok": true,
+    "ips": [
+      "162.154.146.34"
+    ],
+    "https": 200,
+    "http": null,
+    "score": 2,
+    "reason": "https",
+    "title": "My Self Hosted Website"
+  },
+  {
+    "domain": "m.slitherio.ws",
+    "ok": true,
+    "ips": [
+      "64.70.19.203"
+    ],
+    "https": null,
+    "http": 200,
+    "score": 3,
+    "reason": "http",
+    "title": "WEBSITE.WS - Your Internet Address For Life&trade;"
+  },
+  {
+    "domain": "gota.vip",
+    "ok": true,
+    "ips": [
+      "3.33.130.190",
+      "15.197.148.33"
+    ],
+    "https": 200,
+    "http": null,
+    "score": 2,
+    "reason": "https",
+    "title": ""
+  },
+  {
+    "domain": "play.cagar.xyz",
+    "ok": true,
+    "ips": [
+      "76.223.54.146",
+      "13.248.169.48"
+    ],
+    "https": null,
+    "http": 200,
+    "score": 2,
+    "reason": "http",
+    "title": ""
+  },
+  {
+    "domain": "ffa.ruagario.ws",
+    "ok": true,
+    "ips": [
+      "64.70.19.203"
+    ],
+    "https": null,
+    "http": 200,
+    "score": 3,
+    "reason": "http",
+    "title": "WEBSITE.WS - Your Internet Address For Life&trade;"
+  },
+  {
+    "domain": "m.agar.us",
+    "ok": true,
+    "ips": [
+      "3.33.243.145",
+      "15.197.204.56"
+    ],
+    "https": null,
+    "http": 200,
+    "score": 2,
+    "reason": "http",
+    "title": ""
+  },
+  {
+    "domain": "play.slither.xyz",
+    "ok": true,
+    "ips": [
+      "103.224.212.216"
+    ],
+    "https": 200,
+    "http": null,
+    "score": 3,
+    "reason": "https",
+    "title": "slither.xyz"
+  },
+  {
+    "domain": "wagar.tech",
+    "ok": true,
+    "ips": [
+      "76.223.105.230",
+      "13.248.243.5"
+    ],
+    "https": 200,
+    "http": null,
+    "score": 4,
+    "reason": "https",
+    "title": "Woodworking Machinery Service and Repair | Wagar Industrial Solutions"
+  },
+  {
+    "domain": "cells.app",
+    "ok": true,
+    "ips": [
+      "89.31.143.90"
+    ],
+    "https": null,
+    "http": 200,
+    "score": 3,
+    "reason": "http",
+    "title": "Domain im Kundenauftrag registriert"
+  },
+  {
+    "domain": "nazi.ru",
+    "ok": true,
+    "ips": [
+      "95.163.244.135"
+    ],
+    "https": 301,
+    "http": null,
+    "score": 2,
+    "reason": "https",
+    "title": "Moved"
+  },
+  {
+    "domain": "ogar.info",
+    "ok": true,
+    "ips": [
+      "3.33.130.190",
+      "15.197.148.33"
+    ],
+    "https": 200,
+    "http": null,
+    "score": 3,
+    "reason": "https",
+    "title": ""
+  },
+  {
+    "domain": "blob.bio",
+    "ok": true,
+    "ips": [
+      "192.64.119.137"
+    ],
+    "https": null,
+    "http": 302,
+    "score": 2,
+    "reason": "http",
+    "title": ""
+  },
+  {
+    "domain": "m.slither.org",
+    "ok": true,
+    "ips": [
+      "192.64.151.235"
+    ],
+    "https": 302,
+    "http": null,
+    "score": 3,
+    "reason": "https",
+    "title": "302 Found"
+  },
+  {
+    "domain": "m.slither.xyz",
+    "ok": true,
+    "ips": [
+      "103.224.212.216"
+    ],
+    "https": 200,
+    "http": null,
+    "score": 3,
+    "reason": "https",
+    "title": "slither.xyz"
+  },
+  {
+    "domain": "tricksplit.io",
+    "ok": true,
+    "ips": [
+      "104.21.80.29",
+      "172.67.173.91"
+    ],
+    "https": 200,
+    "http": null,
+    "score": 10,
+    "reason": "https",
+    "title": "TrickSplit.io - The Best Agario Unblocked io Private Server."
+  },
+  {
+    "domain": "m.wagar.xyz",
+    "ok": true,
+    "ips": [
+      "76.223.54.146",
+      "13.248.169.48"
+    ],
+    "https": null,
+    "http": 200,
+    "score": 2,
+    "reason": "http",
+    "title": ""
+  },
+  {
+    "domain": "agma.online",
+    "ok": true,
+    "ips": [
+      "186.226.62.28"
+    ],
+    "https": 200,
+    "http": null,
+    "score": 2,
+    "reason": "https",
+    "title": "agma.online"
+  },
+  {
+    "domain": "ffa.agaryou.ws",
+    "ok": true,
+    "ips": [
+      "64.70.19.203"
+    ],
+    "https": null,
+    "http": 200,
+    "score": 3,
+    "reason": "http",
+    "title": "WEBSITE.WS - Your Internet Address For Life&trade;"
+  },
+  {
+    "domain": "ffa.blob.fun",
+    "ok": true,
+    "ips": [
+      "216.198.79.65",
+      "64.29.17.65"
+    ],
+    "https": 404,
+    "http": null,
+    "score": 3,
+    "reason": "https",
+    "title": ""
+  },
+  {
+    "domain": "gota.ws",
+    "ok": true,
+    "ips": [
+      "64.70.19.203"
+    ],
+    "https": null,
+    "http": 200,
+    "score": 2,
+    "reason": "http",
+    "title": "WEBSITE.WS - Your Internet Address For Life&trade;"
+  },
+  {
+    "domain": "agarbattle.ws",
+    "ok": true,
+    "ips": [
+      "64.70.19.203"
+    ],
+    "https": null,
+    "http": 200,
+    "score": 2,
+    "reason": "http",
+    "title": "WEBSITE.WS - Your Internet Address For Life&trade;"
+  },
+  {
+    "domain": "senpa.com",
+    "ok": true,
+    "ips": [
+      "154.194.185.20"
+    ],
+    "https": null,
+    "http": 200,
+    "score": 2,
+    "reason": "http",
+    "title": "Access Restricted"
+  },
+  {
+    "domain": "m.senpa.ws",
+    "ok": true,
+    "ips": [
+      "64.70.19.203"
+    ],
+    "https": null,
+    "http": 200,
+    "score": 2,
+    "reason": "http",
+    "title": "WEBSITE.WS - Your Internet Address For Life&trade;"
+  },
+  {
+    "domain": "m.cells.pro",
+    "ok": true,
+    "ips": [
+      "103.224.212.210"
+    ],
+    "https": 200,
+    "http": null,
+    "score": 3,
+    "reason": "https",
+    "title": "cells.pro"
+  },
+  {
+    "domain": "ffa.agar.bio",
+    "ok": true,
+    "ips": [
+      "103.224.212.213"
+    ],
+    "https": null,
+    "http": 408,
+    "score": 3,
+    "reason": "http",
+    "title": ""
+  },
+  {
+    "domain": "play.blob.me",
+    "ok": true,
+    "ips": [
+      "13.248.169.48",
+      "76.223.54.146"
+    ],
+    "https": null,
+    "http": 200,
+    "score": 2,
+    "reason": "http",
+    "title": ""
+  },
+  {
+    "domain": "agario.fun",
+    "ok": true,
+    "ips": [
+      "172.237.146.46",
+      "172.237.146.18",
+      "172.237.146.39"
+    ],
+    "https": 200,
+    "http": null,
+    "score": 4,
+    "reason": "https",
+    "title": "Redirecting..."
+  },
+  {
+    "domain": "nazi.co",
+    "ok": true,
+    "ips": [
+      "76.223.54.146",
+      "13.248.169.48"
+    ],
+    "https": 200,
+    "http": null,
+    "score": 2,
+    "reason": "https",
+    "title": ""
+  },
+  {
+    "domain": "play.agar.info",
+    "ok": true,
+    "ips": [
+      "13.248.169.48",
+      "76.223.54.146"
+    ],
+    "https": null,
+    "http": 200,
+    "score": 2,
+    "reason": "http",
+    "title": ""
+  },
+  {
+    "domain": "cellz.xyz",
+    "ok": true,
+    "ips": [
+      "3.33.130.190",
+      "15.197.148.33"
+    ],
+    "https": 200,
+    "http": null,
+    "score": 2,
+    "reason": "https",
+    "title": ""
+  },
+  {
+    "domain": "expanding.land",
+    "ok": true,
+    "ips": [
+      "185.199.110.153",
+      "185.199.108.153",
+      "185.199.109.153",
+      "185.199.111.153"
+    ],
+    "https": 200,
+    "http": null,
+    "score": 13,
+    "reason": "https",
+    "title": "Expanding Land – World's Largest IO Game | 3840 Players Per Arena, No Bots, Built in C"
+  },
+  {
+    "domain": "agariogame.com",
+    "ok": true,
+    "ips": [
+      "104.21.23.165",
+      "172.67.212.85"
+    ],
+    "https": 200,
+    "http": null,
+    "score": 4,
+    "reason": "https",
+    "title": "Coming Soon"
+  },
+  {
+    "domain": "m.wormate.org",
+    "ok": true,
+    "ips": [
+      "172.67.215.45",
+      "104.21.45.138"
+    ],
+    "https": 404,
+    "http": null,
+    "score": 3,
+    "reason": "https",
+    "title": "404 Not Found"
+  },
+  {
+    "domain": "m.ogar.ws",
+    "ok": true,
+    "ips": [
+      "64.70.19.203"
+    ],
+    "https": null,
+    "http": 200,
+    "score": 3,
+    "reason": "http",
+    "title": "WEBSITE.WS - Your Internet Address For Life&trade;"
+  },
+  {
+    "domain": "m.wormax.com",
+    "ok": true,
+    "ips": [
+      "13.248.169.48",
+      "76.223.54.146"
+    ],
+    "https": null,
+    "http": 200,
+    "score": 3,
+    "reason": "http",
+    "title": ""
+  },
+  {
+    "domain": "play.agarioplay.xyz",
+    "ok": true,
+    "ips": [
+      "13.248.169.48",
+      "76.223.54.146"
+    ],
+    "https": null,
+    "http": 200,
+    "score": 4,
+    "reason": "http",
+    "title": ""
+  },
+  {
+    "domain": "api.agar.su",
+    "ok": true,
+    "ips": [
+      "195.208.3.95"
+    ],
+    "https": 200,
+    "http": null,
+    "score": 14,
+    "reason": "https",
+    "title": "Agar.su - Игра Онлайн"
+  },
+  {
+    "domain": "ogar.vip",
+    "ok": true,
+    "ips": [
+      "3.33.130.190",
+      "15.197.148.33"
+    ],
+    "https": 200,
+    "http": null,
+    "score": 3,
+    "reason": "https",
+    "title": ""
+  },
+  {
+    "domain": "cellz.top",
+    "ok": true,
+    "ips": [
+      "172.67.178.72",
+      "104.21.31.164"
+    ],
+    "https": null,
+    "http": 301,
+    "score": 2,
+    "reason": "http",
+    "title": "301 Moved Permanently"
+  },
+  {
+    "domain": "ru.slither.org",
+    "ok": true,
+    "ips": [
+      "192.64.151.235"
+    ],
+    "https": 302,
+    "http": null,
+    "score": 3,
+    "reason": "https",
+    "title": "302 Found"
+  },
+  {
+    "domain": "play.agarioplay.ws",
+    "ok": true,
+    "ips": [
+      "64.70.19.203"
+    ],
+    "https": null,
+    "http": 200,
+    "score": 4,
+    "reason": "http",
+    "title": "WEBSITE.WS - Your Internet Address For Life&trade;"
+  },
+  {
+    "domain": "play.vanis.ws",
+    "ok": true,
+    "ips": [
+      "64.70.19.203"
+    ],
+    "https": null,
+    "http": 200,
+    "score": 2,
+    "reason": "http",
+    "title": "WEBSITE.WS - Your Internet Address For Life&trade;"
+  }
+]
